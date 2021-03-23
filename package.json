@@ -1,0 +1,17 @@
+{
+  "name": "bot_nws",
+  "version": "1.0.0",
+  "description": "Bot pour les événements Calendar d'NWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "googleapis": "^39.2.0",
+    "split": "^1.0.1",
+    "superagent": "^6.1.0"
+  }
+}
